@@ -1,0 +1,22 @@
+﻿<Window x:Class="ATIVIDADE.T2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATIVIDADE"
+        mc:Ignorable="d"
+        Title="T2" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="bt_adicao" Content="+" HorizontalAlignment="Left" Height="70" Margin="128,167,0,0" VerticalAlignment="Top" Width="106" FontSize="36" Click="bt_adicao_Click"/>
+        <Button x:Name="bt_sibt" Content="-" HorizontalAlignment="Left" Height="70" Margin="264,167,0,0" VerticalAlignment="Top" Width="104" FontSize="36" Click="bt_sibt_Click"/>
+        <Button x:Name="bt_div" Content="x" HorizontalAlignment="Left" Height="70" Margin="414,167,0,0" VerticalAlignment="Top" Width="104" FontSize="36" Click="bt_div_Click"/>
+        <Button x:Name="bt_div1" Content="/" HorizontalAlignment="Left" Height="70" Margin="560,167,0,0" VerticalAlignment="Top" Width="104" FontSize="36" Click="bt_div1_Click"/>
+        <TextBox x:Name="tb_result" HorizontalAlignment="Left" Height="48" Margin="128,312,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="318" FontSize="36" IsEnabled="False" TextChanged="tb_result_TextChanged"/>
+        <TextBox x:Name="tb_val_a" HorizontalAlignment="Left" Height="64" Margin="484,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" FontSize="36"/>
+        <TextBox x:Name="tb_valb" HorizontalAlignment="Left" Height="64" Margin="135,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="181" FontSize="36"/>
+        <Label Content="valor a" HorizontalAlignment="Left" Height="59" Margin="164,10,0,0" VerticalAlignment="Top" Width="152" FontSize="36"/>
+        <Label Content="valor b" HorizontalAlignment="Left" Height="59" Margin="508,10,0,0" VerticalAlignment="Top" Width="152" FontSize="36"/>
+        <Button x:Name="bt_apagar" Content="Apagar" HorizontalAlignment="Left" Height="79" Margin="504,281,0,0" VerticalAlignment="Top" Width="160" FontSize="36" Click="bt_apagar_Click"/>
+
+    </Grid>
+</Window>
