@@ -1,0 +1,36 @@
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\bin\Debug\ATIVIDADE.exe.config
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\bin\Debug\ATIVIDADE.exe
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\bin\Debug\ATIVIDADE.pdb
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.AssemblyReference.cache
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\App.g.cs
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE_MarkupCompile.cache
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE_MarkupCompile.lref
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\MainWindow.baml
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.g.resources
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.Properties.Resources.resources
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.GenerateResource.cache
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.exe
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\ATIVIDADE.pdb
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\tela2.g.cs
+C:\Users\2020102011075-8\Desktop\Nova pasta\ATIVIDADE\obj\Debug\tela2.baml
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\bin\Debug\ATIVIDADE.exe.config
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\bin\Debug\ATIVIDADE.exe
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\bin\Debug\ATIVIDADE.pdb
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.AssemblyReference.cache
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\App.g.cs
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE_MarkupCompile.cache
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE_MarkupCompile.lref
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\MainWindow.baml
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.g.resources
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.Properties.Resources.resources
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.GenerateResource.cache
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.exe
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\ATIVIDADE.pdb
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\T2.g.cs
+C:\Users\2020102011075-8\Desktop\PDS\ATIVIDADE\obj\Debug\T2.baml
